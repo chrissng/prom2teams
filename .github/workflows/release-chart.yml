@@ -1,10 +1,9 @@
 name: Release chart
 
 on:
-  # push:
-  pull_request:
-    branches:
-      - "master"
+  push:
+    # branches:
+    #   - "master"
     paths:
       - "helm/**"
       - ".github/workflows/release-chart.yml"
