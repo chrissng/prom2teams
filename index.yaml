@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  prom2teams:
+  - apiVersion: v1
+    appVersion: 3.2.3
+    created: "2022-05-12T04:48:12.978836255Z"
+    description: A Helm chart for Prom2Teams
+    digest: 3e56e920d16b40d0901c20898738696fb82bda4c25c75aa546d04513b2d39b5c
+    name: prom2teams
+    urls:
+    - https://github.com/chrissng/prom2teams/releases/download/prom2teams-0.2.0/prom2teams-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-05-12T04:48:12.978846055Z"
